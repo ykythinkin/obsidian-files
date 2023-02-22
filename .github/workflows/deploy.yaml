@@ -50,7 +50,7 @@ jobs:
         with:
           file: "data/config.toml"
           key: "page_title"
-          value: "Digital Garden"
+          value: "My digital garden"
           
       
           
